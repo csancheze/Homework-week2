@@ -10,7 +10,7 @@ There were 4 main areas of improvement:
 
 The style was changed in parallel to the html tags to avoid errors. Then, display properties were added and adjusted to fullfil the requirements. After that, alt texts were added. Finally, the code was double-checked to look for missing symbols and errors until the final product was done.
 
-![Screenshot of the webpage showing it working as expected](./images/screenshot.png)
+![Screenshot of the webpage showing it working as expected](./assets/images/screenshot.png)
 
  [Final Product:Github repository](https://github.com/csancheze/Homework-week2)
 
